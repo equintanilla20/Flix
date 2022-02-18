@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/zuRunFh.gif" width=250><br>
+<img src="https://i.imgur.com/PgqzbiF.gif" width=250><br>
 
 ### Notes
 Resizing the posters in the grid was quite the challenge. I was also unable to get a background color other than white that didn't compromise the UI.
